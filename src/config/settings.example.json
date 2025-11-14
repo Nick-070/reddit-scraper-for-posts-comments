@@ -1,0 +1,8 @@
+{
+  "output": {
+    "directory": "output"
+  },
+  "scraper": {
+    "userAgent": "Mozilla/5.0"
+  }
+}
